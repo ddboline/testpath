@@ -4,7 +4,7 @@ with open("README.rst", "r") as f:
     readme = f.read()
 
 setup(name='testpath',
-      version='0.3',
+      version='0.3.1',
       description='Test utilities for code working with files and commands',
       long_description = readme,
       author='Thomas Kluyver',
